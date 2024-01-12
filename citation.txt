@@ -1,0 +1,8 @@
+@misc{REPO342,
+    author = "Khosla, Prannay and Teterwak, Piotr and Wang, Chen and Sarna, Aaron and Tian, Yonglong and Isola, Phillip and Maschinot, Aaron and Liu, Ce and Krishnan, Dilip",
+    archiveprefix = "arXiv",
+    eprint = "2004.11362",
+    primaryclass = "cs.LG",
+    title = "{Supervised Contrastive Learning}",
+    year = "2021"
+}
